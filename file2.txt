@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 Hello
 
-=======
 This is file2
->>>>>>> cef015b6ea9fc007fe8a15f2b9343b1f67a839ae
+
